@@ -1,0 +1,4 @@
+go test -timeout 30s -run ^TestFunc2$
+go test -timeout 30s -run ^TestLen$
+go test -timeout 30s -run ^TestSwap$
+go test -timeout 30s -run ^TestLess$
